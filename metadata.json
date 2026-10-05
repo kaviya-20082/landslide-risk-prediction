@@ -1,0 +1,6 @@
+{
+  "name": "LandslideGuard AI Command",
+  "description": "Real-time environmental monitoring & predictive slope failure assessment tactical command center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
